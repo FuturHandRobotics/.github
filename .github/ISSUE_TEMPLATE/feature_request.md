@@ -7,15 +7,15 @@ assignees: ''
 ---
 
 **Related Problem**  
-A clear and concise description of what the problem is.  
-(e.g. *I'm frustrated when I can't...*)
+<!-- A clear and concise description of what the problem is.   -->
+<!-- (e.g. *I'm frustrated when I can't...*) -->
 
 **Proposed Solution**  
-What would you like the app/project to do?  
-(e.g. *Add a button that...*)
+<!-- What would you like the app/project to do?   -->
+<!-- (e.g. *Add a button that...*) -->
 
 **Actions**
-What steps/actions need to be done.
+<!-- What steps/actions need to be done. -->
 
 **Criteria**
-What keypoints need to be considered.
+<!-- What keypoints need to be considered. -->

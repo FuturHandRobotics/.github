@@ -7,20 +7,20 @@ assignees: ''
 ---
 
 **Description**
-A short description of what the bug is.
+<!-- A short description of what the bug is. -->
 
 **To Reproduce**
-Steps to reproduce the behavior:
+<!-- Steps to reproduce the behavior:
 1. Go to '...'
 2. Run '...'
-3. See error
+3. See error -->
 
 **Expected behavior**
-What should have happened instead?
+<!-- What should have happened instead? -->
 
 **Actual behavior**
-If applicable, add screenshots.
+<!-- If applicable, add screenshots. -->
 
 **Environment (please complete the following information):**
-- OS: [e.g. Windows, macOS, Linux]
-- Version: [e.g. 1.0.0]
+<!-- - OS: [e.g. Windows, macOS, Linux] -->
+<!-- - Version: [e.g. 1.0.0] -->
