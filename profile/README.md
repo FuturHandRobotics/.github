@@ -20,7 +20,6 @@
 <a href="https://github.com/FuturHandRobotics/FuturHub"><b>FuturHub</b></a>
 ├── external
 │   ├── <a href="https://github.com/FuturHandRobotics/3DObjectTracking">3DObjectTracking</a>
-│   ├── <a href="https://github.com/FuturHandRobotics/FoundationPose">FoundationPose</a>
 │   ├── <a href="https://github.com/FuturHandRobotics/fanuc_description">fanuc_description</a>
 │   ├── <a href="https://github.com/FuturHandRobotics/fanuc_driver">fanuc_driver</a>
 │   ├── <a href="https://github.com/FuturHandRobotics/i2rt">i2rt</a>
